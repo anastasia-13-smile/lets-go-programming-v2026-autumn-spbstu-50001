@@ -1,1 +1,1 @@
-module awesomeProject
+module anastasia.saukova/task-1
