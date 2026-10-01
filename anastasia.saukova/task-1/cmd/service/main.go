@@ -6,7 +6,7 @@ func main() {
 
 	var (
 		numberFirst, numberSecond int
-		operation            string
+		operation                 string
 	)
 
 	if _, err := fmt.Scan(&numberFirst); err != nil {
